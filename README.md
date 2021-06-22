@@ -35,7 +35,7 @@ ________________________________________________________________________________
 - Ridge Regression;
 
 - Grid Search
-- 
+
 ## Script e arquivo
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_desenvolvimento_e_avaliacao_de_modelos_de_machine_learning_no_Python.ipynb) para visualizar o script da parte C.
