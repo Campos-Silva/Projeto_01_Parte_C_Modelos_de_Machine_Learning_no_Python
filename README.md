@@ -8,12 +8,19 @@ ________________________________________________________________________________
 ________________________________________________________________________________________________________________________________________________
 
 
-## Objetivos da parte C:
+## Objetivos da Parte C:
 
+- demonstrar como realizar a construção, predição, avaliação e tomadas de decisão de Modelos de Machine Learning gerados a partir de um banco de dados de veículos usados.
 
-- demonstrar como realizar a <b>construção</b>, <b>predição</b>, <b>avaliação</b> e <b>tomadas de decisão</b> de Modelos de Machine Learning gerados a partir de um banco de dados de veículos usados.
+## Detalhamento do Dataset estudado
 
-## Tópicos abordados na Parte C:
+- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto_01_Parte_B_Exploracao_de_dados_no_Python" que consta no meu repositório do Github (Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para acessar a Parte B).
+
+- Portanto, irei lidar com os dados já previamente formatados oriundo da Parte B.
+
+- Conforme mencionado previamente, esse dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive criar modelos preditivos de machine learning, através de regressão linear.
+
+## Conteúdo da parte C:
 
 - Modelo Linear Simples;
 
@@ -28,7 +35,7 @@ ________________________________________________________________________________
 - Ridge Regression;
 
 - Grid Search
-
+- 
 ## Script e arquivo
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_desenvolvimento_e_avaliacao_de_modelos_de_machine_learning_no_Python.ipynb) para visualizar o script da parte C.
