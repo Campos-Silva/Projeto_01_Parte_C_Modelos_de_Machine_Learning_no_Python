@@ -31,7 +31,7 @@ ________________________________________________________________________________
 
 ## Script e arquivo
 
-- Clique [aqui](https://github.com/Campos-Silva/Projeto_02_Exploracao_de_dados_no_Python/blob/main/Projeto_02_exploracao_de_dados_no_Python.ipynb) para visualizar o script da parte C.
+- Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_desenvolvimento_e_avaliacao_de_modelos_de_machine_learning_no_Python.ipynb) para visualizar o script da parte C.
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/carros_formatado_pos_analises_exploratorias.csv) para visualizar o Dataset.
 
