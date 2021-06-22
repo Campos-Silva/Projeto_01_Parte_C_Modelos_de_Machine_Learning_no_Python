@@ -41,11 +41,15 @@ ________________________________________________________________________________
 
 - numpy
 
-- missingno
+- sklearn
+
+- seaborn
 
 - matplotlib
 
-- scipy.stats
+- ipywidgets
+
+- tqdm
 
 ## Autor:
 
