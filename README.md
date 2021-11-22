@@ -1,4 +1,4 @@
-![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/1-horz.jpg)
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/1_git_imagem.jpg)
 
 ________________________________________________________________________________________________________________________________________________
 
