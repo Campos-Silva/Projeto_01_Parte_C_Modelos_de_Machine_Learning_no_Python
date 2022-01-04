@@ -5,6 +5,18 @@ ________________________________________________________________________________
 
 # P_1 - Parte C: Construção, avaliação e seleção de Modelos de Machine Learning no Python 
 
+________________________________________________________________________________________________________________________________________________
+
+
+ <left>
+<img src="https://raw.githubusercontent.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/main/machine_learning.jpg" width="650" />
+</left>
+
+“Modelos de Machine Learning”, conhecidos também como “Modelos preditivos”, servem para identificar padrões em nossos conjuntos de dados e a partir deles realizar uma previsão de valores específicos.
+
+Modelos de Machine Learning são extremamente importantes para a Ciência de Dados uma vez ajudam pessoas e empresas a embasar a tomada de decisão baseada em dados, e não em intuição.
+
+Assim, tais modelos ajudam empresas a tomar decisões estratégicas muito mais assertivas fazendo com que, por exemplo, empresas consigam prever tendências no mercado, através da previsão de resultados futuros. Isso faz com que a empresa que tem posse de tais modelos de Machine Learning ganhe vantagem competitiva no setor de negócios.
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -16,7 +28,7 @@ ________________________________________________________________________________
 
 - OBSERVAÇÃO: Essa parte C é uma continuação direta do ["Projeto_01_Parte_B_Exploracao_de_dados_no_Python"](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) que consta no meu repositório do Github.
 
-- Portanto, irei lidar com os dados já previamente formatados oriundo da Parte B.
+- Portanto, irei lidar com os dados já previamente formatados.
 
 - Conforme mencionado previamente, esse dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive criar modelos preditivos.
 
