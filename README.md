@@ -3,7 +3,8 @@
 ________________________________________________________________________________________________________________________________________________
 
 
-# Projeto 01 - Parte C: Construção, avaliação e seleção de Modelos de Machine Learning no Python
+# P_1 - Parte C: Construção, avaliação e seleção de Modelos de Machine Learning no Python 
+
 
 ________________________________________________________________________________________________________________________________________________
 
@@ -19,7 +20,9 @@ ________________________________________________________________________________
 
 - Conforme mencionado previamente, esse dataset possui dados de carros usados, o qual nos permite fazer diversas análises em Data Science, inclusive criar modelos preditivos.
 
-## Script e arquivo
+## Arquivos:
+
+![Alt ou título da imagem](https://github.com/Campos-Silva/Projeto_01_Parte_A_Importacao-e-limpeza-de-dados-no-Python/blob/main/icones_v_1.png)
 
 - Clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_C_Modelos_de_Machine_Learning_no_Python/blob/main/Projeto_01_Parte_C.ipynb) para visualizar o script da parte C.
 
