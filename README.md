@@ -14,7 +14,7 @@ ________________________________________________________________________________
 
 ## Detalhamento do Dataset estudado
 
-- OBSERVAÇÃO: Esse projeto é uma continuação direta do "Projeto_01_Parte_B_Exploracao_de_dados_no_Python" que consta no meu repositório do Github ( - clique [aqui](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) para acessar a Parte B).
+- OBSERVAÇÃO: Esse projeto é uma continuação direta do ["Projeto_01_Parte_B_Exploracao_de_dados_no_Python"](https://github.com/Campos-Silva/Projeto_01_Parte_B_Exploracao_de_dados_no_Python) que consta no meu repositório do Github.
 
 - Portanto, irei lidar com os dados já previamente formatados oriundo da Parte B.
 
